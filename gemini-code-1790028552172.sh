@@ -1,1 +1,0 @@
-bash <(curl -sSL https://raw.githubusercontent.com/您的用户名/fanout-x-pro/main/install.sh)
